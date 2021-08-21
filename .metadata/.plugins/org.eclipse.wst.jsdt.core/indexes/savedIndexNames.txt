@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/melody/Documents/eclipse-workspace/Workspace_way/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1891669691.index
+2916046962.index
+3493273877.index
+3718505695.index
+2365205726.index
+1105025966.index
+4161309079.index
